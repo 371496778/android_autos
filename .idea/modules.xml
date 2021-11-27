@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../android_autos/.idea/android_auto.iml" filepath="$PROJECT_DIR$/../android_autos/.idea/android_auto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../android_autos/.idea/android_autos.iml" filepath="$PROJECT_DIR$/../android_autos/.idea/android_autos.iml" />
     </modules>
   </component>
 </project>
